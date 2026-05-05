@@ -1,3 +1,4 @@
 title: Delight Lee
-logo: "<img src="/assets/images/delight_lee_profile.jpg" style="width:100px; height:100px; border-radius:50%;">"
+logo: |
+<img src="/assets/images/delight_lee_profile.jpg" style="width:100px; height:100px; border-radius:50%;">
 theme: jekyll-theme-minimal
