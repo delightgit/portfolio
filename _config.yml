@@ -1,6 +1,3 @@
 title: Delight Lee
-logo: >
-  <div class="profile logo">
-    <img src="/assets/images/delight_lee_profile.jpg"/>
-  </div>
+logo: "/assets/images/delight_lee_profile.jpg"
 theme: jekyll-theme-minimal
